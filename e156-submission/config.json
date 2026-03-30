@@ -1,0 +1,12 @@
+{
+  "title": "PortfolioCatalog: Public Discovery Layer for the C Drive Portfolio",
+  "slug": "portfolio-catalog",
+  "date": "2026-03-30",
+  "path": ".",
+  "type": "methods",
+  "primary_estimand": "proportion of indexed projects reaching high discoverability coverage",
+  "certainty": "moderate",
+  "repo_url": "https://github.com/mahmood726-cyber/portfolio-catalog",
+  "site_url": "https://mahmood726-cyber.github.io/portfolio-catalog/",
+  "dashboard_url": "https://mahmood726-cyber.github.io/portfolio-catalog/e156-submission/assets/dashboard.html"
+}

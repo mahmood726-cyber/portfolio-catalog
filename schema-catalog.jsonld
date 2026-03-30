@@ -1,0 +1,2832 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "DataCatalog",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog",
+      "name": "PortfolioCatalog",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/",
+      "description": "Public discovery catalog for the indexed C-drive research portfolio."
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/adaptsim-6.html#record",
+      "name": "AdaptSim",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/adaptsim-6.html",
+      "description": "AdaptSim is cataloged as HTML app in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "identifier": "6",
+      "keywords": [
+        "Tier 1",
+        "HTML app",
+        "Submission ready",
+        "high",
+        "Monitor and maintain",
+        "Lancet Digital Health + F1000"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/al-mizan-4.html#record",
+      "name": "Al-Mizan",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/al-mizan-4.html",
+      "description": "Al-Mizan is cataloged as HTML app in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "identifier": "4",
+      "keywords": [
+        "Tier 1",
+        "HTML app",
+        "Submission ready",
+        "high",
+        "Monitor and maintain",
+        "BMJ Evidence-Based Medicine"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bias-forensics-5.html#record",
+      "name": "Bias Forensics",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bias-forensics-5.html",
+      "description": "Bias Forensics is cataloged as Python pipeline in Tier 1 with active status, discoverability score 95/100, and readiness score 81/100.",
+      "identifier": "5",
+      "keywords": [
+        "Tier 1",
+        "Python pipeline",
+        "Active",
+        "high",
+        "Monitor and maintain",
+        "Research Synthesis Methods"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cardiooracle-1.html#record",
+      "name": "CardioOracle",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cardiooracle-1.html",
+      "description": "CardioOracle is cataloged as HTML app in Tier 1 with submission ready status, discoverability score 90/100, and readiness score 79/100.",
+      "identifier": "1",
+      "keywords": [
+        "Tier 1",
+        "HTML app",
+        "Submission ready",
+        "high",
+        "Raise FAIR proxy maturity",
+        "Lancet Digital Health"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-website-7.html#record",
+      "name": "Clinic Website",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-website-7.html",
+      "description": "Clinic Website is cataloged as Static site in Tier 1 with shipped status, discoverability score 100/100, and readiness score 92/100.",
+      "identifier": "7",
+      "keywords": [
+        "Tier 1",
+        "Static site",
+        "Shipped",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fragility-atlas-2.html#record",
+      "name": "Fragility Atlas",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fragility-atlas-2.html",
+      "description": "Fragility Atlas is cataloged as Pipeline+Dashboard in Tier 1 with needs triage status, discoverability score 80/100, and readiness score 81/100.",
+      "identifier": "2",
+      "keywords": [
+        "Tier 1",
+        "Pipeline+Dashboard",
+        "Needs triage",
+        "high",
+        "Freeze lifecycle status",
+        "BMJ"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html#record",
+      "name": "MetaReproducer",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metareproducer-3.html",
+      "description": "MetaReproducer is cataloged as Python pipeline+HTML in Tier 1 with submission ready status, discoverability score 100/100, and readiness score 85/100.",
+      "identifier": "3",
+      "keywords": [
+        "Tier 1",
+        "Python pipeline+HTML",
+        "Submission ready",
+        "high",
+        "Monitor and maintain",
+        "BMJ"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/3dvitreous-grapher-68.html#record",
+      "name": "3dvitreous-grapher",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/3dvitreous-grapher-68.html",
+      "description": "3dvitreous-grapher is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+      "identifier": "68",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-63.html#record",
+      "name": "Asa",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-63.html",
+      "description": "Asa is cataloged as Model in Tier 10 with review status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "63",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Review",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Review",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-73a.html#record",
+      "name": "Asa",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/asa-73a.html",
+      "description": "Asa is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 67/100.",
+      "identifier": "73a",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bayesian-ma-109.html#record",
+      "name": "Bayesian MA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/bayesian-ma-109.html",
+      "description": "Bayesian MA is cataloged as Model in Tier 10 with active status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "109",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/benfordma-107.html#record",
+      "name": "BenfordMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/benfordma-107.html",
+      "description": "BenfordMA is cataloged as Root-level project in Tier 10 with active status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "107",
+      "keywords": [
+        "Tier 10",
+        "Root-level project",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html#record",
+      "name": "Component NMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/component-nma-103.html",
+      "description": "Component NMA is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "identifier": "103",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ctgov-search-strategies-66.html#record",
+      "name": "ctgov-search-strategies",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ctgov-search-strategies-66.html",
+      "description": "ctgov-search-strategies is cataloged as Project in Tier 10 with active status, discoverability score 72/100, and readiness score 65/100.",
+      "identifier": "66",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Active",
+        "high",
+        "Make Pages deliverable"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cv-rct-analysis-67.html#record",
+      "name": "cv-rct-analysis",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cv-rct-analysis-67.html",
+      "description": "cv-rct-analysis is cataloged as Project in Tier 10 with shipped status, discoverability score 84/100, and readiness score 71/100.",
+      "identifier": "67",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-half-life-108.html#record",
+      "name": "Evidence Half-Life",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-half-life-108.html",
+      "description": "Evidence Half-Life is cataloged as Root-level project in Tier 10 with needs triage status, discoverability score 67/100, and readiness score 69/100.",
+      "identifier": "108",
+      "keywords": [
+        "Tier 10",
+        "Root-level project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencequality-concordance-105.html#record",
+      "name": "EvidenceQuality (Concordance)",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencequality-concordance-105.html",
+      "description": "EvidenceQuality (Concordance) is cataloged as Root-level project in Tier 10 with submission ready status, discoverability score 87/100, and readiness score 73/100.",
+      "identifier": "105",
+      "keywords": [
+        "Tier 10",
+        "Root-level project",
+        "Submission ready",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-ma-engine-73f.html#record",
+      "name": "Living MA Engine",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-ma-engine-73f.html",
+      "description": "Living MA Engine is cataloged as Project in Tier 10 with active status, discoverability score 87/100, and readiness score 73/100.",
+      "identifier": "73f",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/livingmeta-watchman-69.html#record",
+      "name": "LivingMeta Watchman",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/livingmeta-watchman-69.html",
+      "description": "LivingMeta Watchman is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 37/100.",
+      "identifier": "69",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-power-106.html#record",
+      "name": "MA Power",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-power-106.html",
+      "description": "MA Power is cataloged as Model in Tier 10 with active status, discoverability score 95/100, and readiness score 82/100.",
+      "identifier": "106",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Active",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-workbench-110.html#record",
+      "name": "MA Workbench",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ma-workbench-110.html",
+      "description": "MA Workbench is cataloged as Model in Tier 10 with shipped status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "110",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-regression-113.html#record",
+      "name": "Meta-Regression",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-regression-113.html",
+      "description": "Meta-Regression is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "identifier": "113",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaextract-65.html#record",
+      "name": "MetaExtract",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaextract-65.html",
+      "description": "MetaExtract is cataloged as Project in Tier 10 with review status, discoverability score 84/100, and readiness score 69/100.",
+      "identifier": "65",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Review",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Review",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaguard-79.html#record",
+      "name": "MetaGuard",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaguard-79.html",
+      "description": "MetaGuard is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "identifier": "79",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metamethods-80.html#record",
+      "name": "MetaMethods",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metamethods-80.html",
+      "description": "MetaMethods is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "identifier": "80",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metashift-108a.html#record",
+      "name": "MetaShift",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metashift-108a.html",
+      "description": "MetaShift is cataloged as Root-level project in Tier 10 with active status, discoverability score 87/100, and readiness score 73/100.",
+      "identifier": "108a",
+      "keywords": [
+        "Tier 10",
+        "Root-level project",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/minireview-73.html#record",
+      "name": "minireview",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/minireview-73.html",
+      "description": "minireview is cataloged as Project in Tier 10 with review status, discoverability score 49/100, and readiness score 43/100.",
+      "identifier": "73",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Review",
+        "medium",
+        "Initialize or repair git"
+      ],
+      "creativeWorkStatus": "Review",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/new-app-73d.html#record",
+      "name": "new-app",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/new-app-73d.html",
+      "description": "new-app is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 39/100.",
+      "identifier": "73d",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/oman-73b.html#record",
+      "name": "oman",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/oman-73b.html",
+      "description": "oman is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 27/100.",
+      "identifier": "73b",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pfa-af-livingmeta-70.html#record",
+      "name": "PFA AF LivingMeta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pfa-af-livingmeta-70.html",
+      "description": "PFA AF LivingMeta is cataloged as Project in Tier 10 with active status, discoverability score 39/100, and readiness score 35/100.",
+      "identifier": "70",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Active",
+        "low",
+        "Initialize or repair git"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pooling-suite-112.html#record",
+      "name": "Pooling Suite",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pooling-suite-112.html",
+      "description": "Pooling Suite is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "identifier": "112",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/portfolio-site-73e.html#record",
+      "name": "Portfolio Site",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/portfolio-site-73e.html",
+      "description": "Portfolio Site is cataloged as Project in Tier 10 with shipped status, discoverability score 87/100, and readiness score 73/100.",
+      "identifier": "73e",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prisma-checker-107.html#record",
+      "name": "PRISMA Checker",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prisma-checker-107.html",
+      "description": "PRISMA Checker is cataloged as Model in Tier 10 with active status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "107",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-suite-111.html#record",
+      "name": "Pub Bias Suite",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-suite-111.html",
+      "description": "Pub Bias Suite is cataloged as Model in Tier 10 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "identifier": "111",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rayyanreplacement-72.html#record",
+      "name": "rayyanreplacement",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rayyanreplacement-72.html",
+      "description": "rayyanreplacement is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 33/100.",
+      "identifier": "72",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmst-meta-104.html#record",
+      "name": "RMST Meta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmst-meta-104.html",
+      "description": "RMST Meta is cataloged as Root-level project in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "identifier": "104",
+      "keywords": [
+        "Tier 10",
+        "Root-level project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rob-assessor-102.html#record",
+      "name": "RoB Assessor",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rob-assessor-102.html",
+      "description": "RoB Assessor is cataloged as Model in Tier 10 with needs triage status, discoverability score 64/100, and readiness score 58/100.",
+      "identifier": "102",
+      "keywords": [
+        "Tier 10",
+        "Model",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/superapp-73c.html#record",
+      "name": "superapp",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/superapp-73c.html",
+      "description": "superapp is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 39/100.",
+      "identifier": "73c",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/trialradar-64.html#record",
+      "name": "TrialRadar",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/trialradar-64.html",
+      "description": "TrialRadar is cataloged as Project in Tier 10 with review status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "64",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Review",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Review",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tricuspid-teer-71.html#record",
+      "name": "Tricuspid TEER",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tricuspid-teer-71.html",
+      "description": "Tricuspid TEER is cataloged as Project in Tier 10 with needs triage status, discoverability score 19/100, and readiness score 31/100.",
+      "identifier": "71",
+      "keywords": [
+        "Tier 10",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/childnajia-76.html#record",
+      "name": "childnajia",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/childnajia-76.html",
+      "description": "childnajia is cataloged as Project in Tier 11 with needs triage status, discoverability score 19/100, and readiness score 27/100.",
+      "identifier": "76",
+      "keywords": [
+        "Tier 11",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-site-74.html#record",
+      "name": "Clinic Site",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/clinic-site-74.html",
+      "description": "Clinic Site is cataloged as Project in Tier 11 with shipped status, discoverability score 95/100, and readiness score 84/100.",
+      "identifier": "74",
+      "keywords": [
+        "Tier 11",
+        "Project",
+        "Shipped",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/private-website-75.html#record",
+      "name": "Private Website",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/private-website-75.html",
+      "description": "Private Website is cataloged as Project in Tier 11 with shipped status, discoverability score 87/100, and readiness score 73/100.",
+      "identifier": "75",
+      "keywords": [
+        "Tier 11",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/stories-78.html#record",
+      "name": "Stories",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/stories-78.html",
+      "description": "Stories is cataloged as Project in Tier 11 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+      "identifier": "78",
+      "keywords": [
+        "Tier 11",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/waternajia-77.html#record",
+      "name": "waternajia",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/waternajia-77.html",
+      "description": "waternajia is cataloged as Project in Tier 11 with needs triage status, discoverability score 19/100, and readiness score 27/100.",
+      "identifier": "77",
+      "keywords": [
+        "Tier 11",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/advanced-nma-pooling-97.html#record",
+      "name": "advanced-nma-pooling",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/advanced-nma-pooling-97.html",
+      "description": "advanced-nma-pooling is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "97",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-plugins-102.html#record",
+      "name": "claude-plugins",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-plugins-102.html",
+      "description": "claude-plugins is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "102",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-rct-work-101.html#record",
+      "name": "claude-rct-work",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/claude-rct-work-101.html",
+      "description": "claude-rct-work is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "101",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/esc-acs-living-meta-85.html#record",
+      "name": "esc-acs-living-meta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/esc-acs-living-meta-85.html",
+      "description": "esc-acs-living-meta is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "85",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/everything-claude-code-93.html#record",
+      "name": "everything-claude-code",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/everything-claude-code-93.html",
+      "description": "everything-claude-code is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 12/100.",
+      "identifier": "93",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-inference-80.html#record",
+      "name": "evidence-inference",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidence-inference-80.html",
+      "description": "evidence-inference is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "80",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/experimental-meta-analysis-91.html#record",
+      "name": "experimental-meta-analysis",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/experimental-meta-analysis-91.html",
+      "description": "experimental-meta-analysis is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 14/100.",
+      "identifier": "91",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/glm-code-104.html#record",
+      "name": "glm-code",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/glm-code-104.html",
+      "description": "glm-code is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "104",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-calibration-83.html#record",
+      "name": "hfpef_registry_calibration",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-calibration-83.html",
+      "description": "hfpef_registry_calibration is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "83",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-synth-82.html#record",
+      "name": "hfpef_registry_synth",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hfpef-registry-synth-82.html",
+      "description": "hfpef_registry_synth is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "82",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/idea12-92.html#record",
+      "name": "idea12",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/idea12-92.html",
+      "description": "idea12 is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "92",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-link-94.html#record",
+      "name": "ipd-meta-pro-link",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-link-94.html",
+      "description": "ipd-meta-pro-link is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "94",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-project-95.html#record",
+      "name": "ipd_qma_project",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-project-95.html",
+      "description": "ipd_qma_project is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "95",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/llm-meta-analysis-81.html#record",
+      "name": "llm-meta-analysis",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/llm-meta-analysis-81.html",
+      "description": "llm-meta-analysis is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 14/100.",
+      "identifier": "81",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-88.html#record",
+      "name": "MAFI",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-88.html",
+      "description": "MAFI is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "88",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-continuation-89.html#record",
+      "name": "MAFI-Continuation",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mafi-continuation-89.html",
+      "description": "MAFI-Continuation is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "89",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/maxent-reconstructor-90.html#record",
+      "name": "maxent-reconstructor",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/maxent-reconstructor-90.html",
+      "description": "maxent-reconstructor is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "90",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-epidemiology-bias-correction-79.html#record",
+      "name": "meta-epidemiology-bias-correction",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/meta-epidemiology-bias-correction-79.html",
+      "description": "meta-epidemiology-bias-correction is cataloged as Project in Tier 12 with paused status, discoverability score 30/100, and readiness score 33/100.",
+      "identifier": "79",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Paused",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metafusion-lab-100.html#record",
+      "name": "MetaFusion-Lab",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metafusion-lab-100.html",
+      "description": "MetaFusion-Lab is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "100",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metanew-86.html#record",
+      "name": "Metanew",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metanew-86.html",
+      "description": "Metanew is cataloged as Project in Tier 12 with submission ready status, discoverability score 24/100, and readiness score 20/100.",
+      "identifier": "86",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Submission ready",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlm501-87.html#record",
+      "name": "MLM501",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlm501-87.html",
+      "description": "MLM501 is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "87",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multipledatameta-103.html#record",
+      "name": "Multipledatameta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multipledatameta-103.html",
+      "description": "Multipledatameta is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "103",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prognostic-meta-96.html#record",
+      "name": "prognostic-meta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/prognostic-meta-96.html",
+      "description": "prognostic-meta is cataloged as Project in Tier 12 with active status, discoverability score 27/100, and readiness score 24/100.",
+      "identifier": "96",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Active",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/registry-first-rct-meta-84.html#record",
+      "name": "registry_first_rct_meta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/registry-first-rct-meta-84.html",
+      "description": "registry_first_rct_meta is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "84",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/surronma-99.html#record",
+      "name": "surroNMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/surronma-99.html",
+      "description": "surroNMA is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 10/100.",
+      "identifier": "99",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tower-98.html#record",
+      "name": "tower",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/tower-98.html",
+      "description": "tower is cataloged as Project in Tier 12 with needs triage status, discoverability score 4/100, and readiness score 12/100.",
+      "identifier": "98",
+      "keywords": [
+        "Tier 12",
+        "Project",
+        "Needs triage",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dose-response-nma-13.html#record",
+      "name": "Dose-Response NMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dose-response-nma-13.html",
+      "description": "Dose-Response NMA is cataloged as HTML app in Tier 2 with archived status, discoverability score 80/100, and readiness score 80/100.",
+      "identifier": "13",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Archived",
+        "high",
+        "Make Pages deliverable"
+      ],
+      "creativeWorkStatus": "Archived",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html#record",
+      "name": "DTA Pro",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta-pro-10.html",
+      "description": "DTA Pro is cataloged as HTML app in Tier 2 with archived status, discoverability score 100/100, and readiness score 90/100.",
+      "identifier": "10",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Archived",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Archived",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-artifact-standard-11.html#record",
+      "name": "HTA Artifact Standard",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-artifact-standard-11.html",
+      "description": "HTA Artifact Standard is cataloged as HTML app in Tier 2 with shipped status, discoverability score 100/100, and readiness score 96/100.",
+      "identifier": "11",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Shipped",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-9.html#record",
+      "name": "IPD-Meta-Pro",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-meta-pro-9.html",
+      "description": "IPD-Meta-Pro is cataloged as HTML app in Tier 2 with shipped status, discoverability score 100/100, and readiness score 92/100.",
+      "identifier": "9",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Shipped",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-meta-15.html#record",
+      "name": "Living-Meta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/living-meta-15.html",
+      "description": "Living-Meta is cataloged as HTML app in Tier 2 with paused status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "15",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Paused",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/nma-apps-12.html#record",
+      "name": "NMA apps",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/nma-apps-12.html",
+      "description": "NMA apps is cataloged as HTML app in Tier 2 with archived status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "12",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Archived",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Archived",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise-ai-14.html#record",
+      "name": "Pairwise AI",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise-ai-14.html",
+      "description": "Pairwise AI is cataloged as HTML app in Tier 2 with archived status, discoverability score 80/100, and readiness score 80/100.",
+      "identifier": "14",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Archived",
+        "high",
+        "Make Pages deliverable"
+      ],
+      "creativeWorkStatus": "Archived",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/truthcert-pairwisepro-8.html#record",
+      "name": "TruthCert PairwisePro",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/truthcert-pairwisepro-8.html",
+      "description": "TruthCert PairwisePro is cataloged as HTML app in Tier 2 with maintained status, discoverability score 85/100, and readiness score 86/100.",
+      "identifier": "8",
+      "keywords": [
+        "Tier 2",
+        "HTML app",
+        "Maintained",
+        "high",
+        "Make Pages deliverable"
+      ],
+      "creativeWorkStatus": "Maintained",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/finrenone-rapidmeta-21.html#record",
+      "name": "Finrenone RapidMeta",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/finrenone-rapidmeta-21.html",
+      "description": "Finrenone RapidMeta is cataloged as Project in Tier 3 with archived status, discoverability score 85/100, and readiness score 82/100.",
+      "identifier": "21",
+      "keywords": [
+        "Tier 3",
+        "Project",
+        "Archived",
+        "high",
+        "Make Pages deliverable"
+      ],
+      "creativeWorkStatus": "Archived",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-autopilot-16.html#record",
+      "name": "MetaSprint Autopilot",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-autopilot-16.html",
+      "description": "MetaSprint Autopilot is cataloged as Project in Tier 3 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "16",
+      "keywords": [
+        "Tier 3",
+        "Project",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-cardio-universe-20.html#record",
+      "name": "MetaSprint Cardio Universe",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-cardio-universe-20.html",
+      "description": "MetaSprint Cardio Universe is cataloged as Project in Tier 3 with active status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "20",
+      "keywords": [
+        "Tier 3",
+        "Project",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dose-response-19.html#record",
+      "name": "MetaSprint Dose-Response",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dose-response-19.html",
+      "description": "MetaSprint Dose-Response is cataloged as Project in Tier 3 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "19",
+      "keywords": [
+        "Tier 3",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dta-17.html#record",
+      "name": "MetaSprint DTA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-dta-17.html",
+      "description": "MetaSprint DTA is cataloged as Project in Tier 3 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "17",
+      "keywords": [
+        "Tier 3",
+        "Project",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-nma-18.html#record",
+      "name": "MetaSprint NMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metasprint-nma-18.html",
+      "description": "MetaSprint NMA is cataloged as Project in Tier 3 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "18",
+      "keywords": [
+        "Tier 3",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-23.html#record",
+      "name": "501MLM",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-23.html",
+      "description": "501MLM is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "23",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-submission-37b.html#record",
+      "name": "501MLM_Submission",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/501mlm-submission-37b.html",
+      "description": "501MLM_Submission is cataloged as Project in Tier 4 with submission ready status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "37b",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Submission ready",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cres-24.html#record",
+      "name": "CRES",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cres-24.html",
+      "description": "CRES is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "identifier": "24",
+      "keywords": [
+        "Tier 4",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/grma-28.html#record",
+      "name": "GRMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/grma-28.html",
+      "description": "GRMA is cataloged as Model in Tier 4 with submission ready status, discoverability score 95/100, and readiness score 84/100.",
+      "identifier": "28",
+      "keywords": [
+        "Tier 4",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/gwam-26.html#record",
+      "name": "GWAM",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/gwam-26.html",
+      "description": "GWAM is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "identifier": "26",
+      "keywords": [
+        "Tier 4",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/heterogeneityase-22.html#record",
+      "name": "HeterogeneityASE",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/heterogeneityase-22.html",
+      "description": "HeterogeneityASE is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "identifier": "22",
+      "keywords": [
+        "Tier 4",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-25.html#record",
+      "name": "IPD-QMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-qma-25.html",
+      "description": "IPD-QMA is cataloged as Model in Tier 4 with accepted status, discoverability score 100/100, and readiness score 88/100.",
+      "identifier": "25",
+      "keywords": [
+        "Tier 4",
+        "Model",
+        "Accepted",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Accepted",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/lfa-cbamm-37a.html#record",
+      "name": "LFA (cbamm)",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/lfa-cbamm-37a.html",
+      "description": "LFA (cbamm) is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "37a",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mem-meta-ecosystem-27.html#record",
+      "name": "MEM (Meta Ecosystem)",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mem-meta-ecosystem-27.html",
+      "description": "MEM (Meta Ecosystem) is cataloged as Model in Tier 4 with submission ready status, discoverability score 70/100, and readiness score 78/100.",
+      "identifier": "27",
+      "keywords": [
+        "Tier 4",
+        "Model",
+        "Submission ready",
+        "high",
+        "Complete manuscript bundle"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-30.html#record",
+      "name": "metaoverfit",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-30.html",
+      "description": "metaoverfit is cataloged as Project in Tier 4 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "30",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-paper-37c.html#record",
+      "name": "metaoverfit-paper",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaoverfit-paper-37c.html",
+      "description": "metaoverfit-paper is cataloged as Project in Tier 4 with paused status, discoverability score 90/100, and readiness score 80/100.",
+      "identifier": "37c",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Paused",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaverse-robust-ma-33.html#record",
+      "name": "metaverse-robust-MA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/metaverse-robust-ma-33.html",
+      "description": "metaverse-robust-MA is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "33",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlmresearch-34.html#record",
+      "name": "MLMResearch",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mlmresearch-34.html",
+      "description": "MLMResearch is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "34",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper1-cbamm-35.html#record",
+      "name": "Paper1 (cbamm)",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper1-cbamm-35.html",
+      "description": "Paper1 (cbamm) is cataloged as Project in Tier 4 with paused status, discoverability score 90/100, and readiness score 80/100.",
+      "identifier": "35",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Paused",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper2-36.html#record",
+      "name": "Paper2",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/paper2-36.html",
+      "description": "Paper2 is cataloged as Project in Tier 4 with paused status, discoverability score 75/100, and readiness score 70/100.",
+      "identifier": "36",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Paused",
+        "high",
+        "Make Pages deliverable"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-simulation-31.html#record",
+      "name": "pub-bias-simulation",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pub-bias-simulation-31.html",
+      "description": "pub-bias-simulation is cataloged as Project in Tier 4 with paused status, discoverability score 95/100, and readiness score 84/100.",
+      "identifier": "31",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Paused",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmstnma-32.html#record",
+      "name": "rmstnma",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rmstnma-32.html",
+      "description": "rmstnma is cataloged as Project in Tier 4 with paused status, discoverability score 95/100, and readiness score 84/100.",
+      "identifier": "32",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Paused",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-fatiha-29.html#record",
+      "name": "SYNTHESIS (FATIHA)",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-fatiha-29.html",
+      "description": "SYNTHESIS (FATIHA) is cataloged as Model in Tier 4 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "identifier": "29",
+      "keywords": [
+        "Tier 4",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ubcma-106.html#record",
+      "name": "UBCMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ubcma-106.html",
+      "description": "UBCMA is cataloged as Root-level project in Tier 4 with active status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "106",
+      "keywords": [
+        "Tier 4",
+        "Root-level project",
+        "Active",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/wasserstein-37.html#record",
+      "name": "wasserstein",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/wasserstein-37.html",
+      "description": "wasserstein is cataloged as Project in Tier 4 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "37",
+      "keywords": [
+        "Tier 4",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/causalsynth-39.html#record",
+      "name": "CausalSynth",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/causalsynth-39.html",
+      "description": "CausalSynth is cataloged as Model in Tier 5 with submission ready status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "39",
+      "keywords": [
+        "Tier 5",
+        "Model",
+        "Submission ready",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencegapmap-40d.html#record",
+      "name": "EvidenceGapMap",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/evidencegapmap-40d.html",
+      "description": "EvidenceGapMap is cataloged as Root-level project in Tier 5 with paused status, discoverability score 55/100, and readiness score 56/100.",
+      "identifier": "40d",
+      "keywords": [
+        "Tier 5",
+        "Root-level project",
+        "Paused",
+        "medium",
+        "Initialize or repair git"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mapriors-40.html#record",
+      "name": "MAPriors",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/mapriors-40.html",
+      "description": "MAPriors is cataloged as Model in Tier 5 with submission ready status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "40",
+      "keywords": [
+        "Tier 5",
+        "Model",
+        "Submission ready",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multiversema-38.html#record",
+      "name": "MultiverseMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/multiversema-38.html",
+      "description": "MultiverseMA is cataloged as Model in Tier 5 with submission ready status, discoverability score 87/100, and readiness score 75/100.",
+      "identifier": "38",
+      "keywords": [
+        "Tier 5",
+        "Model",
+        "Submission ready",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/outcomereportingbias-40a.html#record",
+      "name": "OutcomeReportingBias",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/outcomereportingbias-40a.html",
+      "description": "OutcomeReportingBias is cataloged as Root-level project in Tier 5 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "40a",
+      "keywords": [
+        "Tier 5",
+        "Root-level project",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/overlapdetector-40b.html#record",
+      "name": "OverlapDetector",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/overlapdetector-40b.html",
+      "description": "OverlapDetector is cataloged as Root-level project in Tier 5 with submission ready status, discoverability score 95/100, and readiness score 86/100.",
+      "identifier": "40b",
+      "keywords": [
+        "Tier 5",
+        "Root-level project",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/predictiongap-40c.html#record",
+      "name": "PredictionGap",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/predictiongap-40c.html",
+      "description": "PredictionGap is cataloged as Root-level project in Tier 5 with submission ready status, discoverability score 100/100, and readiness score 88/100.",
+      "identifier": "40c",
+      "keywords": [
+        "Tier 5",
+        "Root-level project",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cochranedataextractor-43.html#record",
+      "name": "CochraneDataExtractor",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/cochranedataextractor-43.html",
+      "description": "CochraneDataExtractor is cataloged as Project in Tier 6 with active status, discoverability score 52/100, and readiness score 63/100.",
+      "identifier": "43",
+      "keywords": [
+        "Tier 6",
+        "Project",
+        "Active",
+        "medium",
+        "Complete manuscript bundle"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dataextractor-44.html#record",
+      "name": "Dataextractor",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dataextractor-44.html",
+      "description": "Dataextractor is cataloged as Project in Tier 6 with needs triage status, discoverability score 52/100, and readiness score 59/100.",
+      "identifier": "44",
+      "keywords": [
+        "Tier 6",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta70-48.html#record",
+      "name": "DTA70",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/dta70-48.html",
+      "description": "DTA70 is cataloged as Project in Tier 6 with needs triage status, discoverability score 67/100, and readiness score 69/100.",
+      "identifier": "48",
+      "keywords": [
+        "Tier 6",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/kmcurve-45.html#record",
+      "name": "KMcurve",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/kmcurve-45.html",
+      "description": "KMcurve is cataloged as Project in Tier 6 with needs triage status, discoverability score 29/100, and readiness score 39/100.",
+      "identifier": "45",
+      "keywords": [
+        "Tier 6",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise70-42.html#record",
+      "name": "Pairwise70",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/pairwise70-42.html",
+      "description": "Pairwise70 is cataloged as Model in Tier 6 with review status, discoverability score 84/100, and readiness score 71/100.",
+      "identifier": "42",
+      "keywords": [
+        "Tier 6",
+        "Model",
+        "Review",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Review",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rct-extractor-v2-41.html#record",
+      "name": "RCT Extractor v2",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/rct-extractor-v2-41.html",
+      "description": "RCT Extractor v2 is cataloged as Project in Tier 6 with active status, discoverability score 90/100, and readiness score 77/100.",
+      "identifier": "41",
+      "keywords": [
+        "Tier 6",
+        "Project",
+        "Active",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo100-46.html#record",
+      "name": "repo100",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo100-46.html",
+      "description": "repo100 is cataloged as Project in Tier 6 with needs triage status, discoverability score 52/100, and readiness score 63/100.",
+      "identifier": "46",
+      "keywords": [
+        "Tier 6",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo300-enma-snma-47.html#record",
+      "name": "repo300-ENMA-SNMA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/repo300-enma-snma-47.html",
+      "description": "repo300-ENMA-SNMA is cataloged as Project in Tier 6 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "identifier": "47",
+      "keywords": [
+        "Tier 6",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/autograde-54.html#record",
+      "name": "AutoGRADE",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/autograde-54.html",
+      "description": "AutoGRADE is cataloged as Project in Tier 7 with shipped status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "54",
+      "keywords": [
+        "Tier 7",
+        "Project",
+        "Shipped",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Shipped",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-evidence-integrity-49.html#record",
+      "name": "HTA Evidence Integrity",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-evidence-integrity-49.html",
+      "description": "HTA Evidence Integrity is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 90/100.",
+      "identifier": "49",
+      "keywords": [
+        "Tier 7",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-oman-53.html#record",
+      "name": "HTA Oman",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-oman-53.html",
+      "description": "HTA Oman is cataloged as Project in Tier 7 with paused status, discoverability score 90/100, and readiness score 76/100.",
+      "identifier": "53",
+      "keywords": [
+        "Tier 7",
+        "Project",
+        "Paused",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-transportability-50.html#record",
+      "name": "HTA Transportability",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-transportability-50.html",
+      "description": "HTA Transportability is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "identifier": "50",
+      "keywords": [
+        "Tier 7",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-unified-intel-52.html#record",
+      "name": "HTA Unified Intel",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/hta-unified-intel-52.html",
+      "description": "HTA Unified Intel is cataloged as Model in Tier 7 with paused status, discoverability score 90/100, and readiness score 82/100.",
+      "identifier": "52",
+      "keywords": [
+        "Tier 7",
+        "Model",
+        "Paused",
+        "high",
+        "Raise FAIR proxy maturity"
+      ],
+      "creativeWorkStatus": "Paused",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/value-based-hta-51.html#record",
+      "name": "Value-Based HTA",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/value-based-hta-51.html",
+      "description": "Value-Based HTA is cataloged as Model in Tier 7 with submission ready status, discoverability score 100/100, and readiness score 92/100.",
+      "identifier": "51",
+      "keywords": [
+        "Tier 7",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "LearningResource",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-56.html#record",
+      "name": "Fatiha Course",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-56.html",
+      "description": "Fatiha Course is cataloged as Project in Tier 8 with needs triage status, discoverability score 19/100, and readiness score 33/100.",
+      "identifier": "56",
+      "keywords": [
+        "Tier 8",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "LearningResource",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-v2-57.html#record",
+      "name": "Fatiha Course v2",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/fatiha-course-v2-57.html",
+      "description": "Fatiha Course v2 is cataloged as Project in Tier 8 with needs triage status, discoverability score 52/100, and readiness score 63/100.",
+      "identifier": "57",
+      "keywords": [
+        "Tier 8",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "LearningResource",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-course-55.html#record",
+      "name": "Synthesis Course",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/synthesis-course-55.html",
+      "description": "Synthesis Course is cataloged as Course material in Tier 8 with active status, discoverability score 30/100, and readiness score 29/100.",
+      "identifier": "55",
+      "keywords": [
+        "Tier 8",
+        "Course material",
+        "Active",
+        "low",
+        "Fix indexed path"
+      ],
+      "creativeWorkStatus": "Active",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/burhan-59.html#record",
+      "name": "Burhan",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/burhan-59.html",
+      "description": "Burhan is cataloged as Project in Tier 9 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "identifier": "59",
+      "keywords": [
+        "Tier 9",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-zahid-60.html#record",
+      "name": "IPD Zahid",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/ipd-zahid-60.html",
+      "description": "IPD Zahid is cataloged as Project in Tier 9 with needs triage status, discoverability score 19/100, and readiness score 21/100.",
+      "identifier": "60",
+      "keywords": [
+        "Tier 9",
+        "Project",
+        "Needs triage",
+        "low",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/shahzaib-icu-58.html#record",
+      "name": "Shahzaib ICU",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/shahzaib-icu-58.html",
+      "description": "Shahzaib ICU is cataloged as Model in Tier 9 with submission ready status, discoverability score 95/100, and readiness score 84/100.",
+      "identifier": "58",
+      "keywords": [
+        "Tier 9",
+        "Model",
+        "Submission ready",
+        "high",
+        "Monitor and maintain"
+      ],
+      "creativeWorkStatus": "Submission ready",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-61.html#record",
+      "name": "WorldIPD",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-61.html",
+      "description": "WorldIPD is cataloged as Project in Tier 9 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "identifier": "61",
+      "keywords": [
+        "Tier 9",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-private-62.html#record",
+      "name": "WorldIPD-private",
+      "url": "https://mahmood726-cyber.github.io/portfolio-catalog/projects/worldipd-private-62.html",
+      "description": "WorldIPD-private is cataloged as Project in Tier 9 with needs triage status, discoverability score 64/100, and readiness score 61/100.",
+      "identifier": "62",
+      "keywords": [
+        "Tier 9",
+        "Project",
+        "Needs triage",
+        "medium",
+        "Freeze lifecycle status"
+      ],
+      "creativeWorkStatus": "Needs triage",
+      "dateModified": "2026-03-30T14:48:30+00:00",
+      "isPartOf": {
+        "@type": "DataCatalog",
+        "@id": "https://mahmood726-cyber.github.io/portfolio-catalog/#catalog"
+      }
+    }
+  ]
+}

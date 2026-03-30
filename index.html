@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PortfolioCatalog</title>
+  <meta name="description" content="Public catalog and discovery dashboard for the C-drive research portfolio.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Discovery Layer</p>
+        <h1>PortfolioCatalog</h1>
+        <p class="hero-text">
+          A standards-based public catalog for the C-drive research portfolio, with landing pages, DCAT export,
+          Schema.org graph, and a searchable dashboard over every indexed project.
+        </p>
+      </div>
+      <div class="hero-links" id="export-links"></div>
+    </header>
+
+    <main class="content-grid">
+      <section class="panel">
+        <div class="section-head">
+          <p class="eyebrow">Coverage</p>
+          <h2>Catalog Metrics</h2>
+        </div>
+        <div class="metric-grid" id="metric-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <p class="eyebrow">Discovery Gaps</p>
+          <h2>What Still Breaks</h2>
+        </div>
+        <div class="chip-grid" id="gap-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-head">
+          <p class="eyebrow">Tier Pattern</p>
+          <h2>Discoverability By Tier</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Tier</th>
+                <th>Projects</th>
+                <th>Mean Score</th>
+                <th>Strong Records</th>
+              </tr>
+            </thead>
+            <tbody id="tier-table"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel panel-wide">
+        <div class="section-head">
+          <p class="eyebrow">Search</p>
+          <h2>Catalog Records</h2>
+        </div>
+        <form class="filter-bar" id="filter-form">
+          <label>
+            <span>Search</span>
+            <input id="search-input" type="search" placeholder="Project, type, tier, journal">
+          </label>
+          <label>
+            <span>Tier</span>
+            <select id="tier-select">
+              <option value="">All tiers</option>
+            </select>
+          </label>
+          <label>
+            <span>Band</span>
+            <select id="band-select">
+              <option value="">All bands</option>
+              <option value="high">High</option>
+              <option value="medium">Medium</option>
+              <option value="low">Low</option>
+            </select>
+          </label>
+          <label>
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="score">Discoverability</option>
+              <option value="readiness">Readiness</option>
+              <option value="name">Name</option>
+            </select>
+          </label>
+        </form>
+        <p class="results-copy" id="results-copy"></p>
+        <div class="project-grid" id="project-grid"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
