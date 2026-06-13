@@ -26,9 +26,9 @@ The portfolio now has registry, FAIR, triage, drive-telemetry, provenance, RO-Cr
 
 ## Rebuild
 
-Run:
+From the repository root, run:
 
-`python C:\Users\user\PortfolioCatalog\scripts\build_portfolio_catalog.py`
+`python scripts/build_portfolio_catalog.py`
 
 ## Scope note
 
